@@ -532,6 +532,14 @@
       "coursesTitle": "Training Courses",
       "courses": [
         {
+        "title": "Training Course: Public Relations in the Sports Field",
+        "description": "Ahmed Ashkanani attended a training course titled \"Public Relations in the Sports Field,\" organized by the Leadership Preparation Institute of the Ministry of Sport. The course was conducted remotely from January 12 to January 13, 2026, with a total of 4 training hours.",
+        "images": [
+          "/public-relations-sports-training.jpg"
+        ]
+      },
+
+        {
     "title": "Attendance Certificate for a Training Program",
     "description": "Certificate awarded to Ahmed Jaber Mohamed Ashkanani for attending the training program (Basic Knowledge and Skills for Supervisory Positions) for the academic year 2025/2026, held from November 19 to 20, 2025, consisting of 8 training sessions, organized by the Development and Training Department - Ministry of Education.",
     "images": [
@@ -1239,6 +1247,14 @@
       ],
       "coursesTitle": "الدورات التدريبية",
       "courses": [
+        {
+            "title": "دورة تدريبية: العلاقات العامة في المجال الرياضي",
+            "description": "حضر أحمد أشكناني دورة تدريبية بعنوان «العلاقات العامة في المجال الرياضي» والتي نظمها معهد إعداد القادة بوزارة الرياضة، وتم تنفيذها عن بُعد خلال الفترة من 12 إلى 13 يناير 2026، بمعدل إجمالي 4 ساعات تدريبية.",
+            "images": [
+              "/public-relations-sports-training.jpg"
+            ]
+          },
+
         {
         "title": "شهادة حضور برنامج تدريبي",
         "description": "شهادة بحضور أحمد جابر محمد أشكناني للبرنامج التدريبي (المعارف والمهارات الأساسية للوظائف الإشرافية) للعام الدراسي 2025/2026، والذي عُقد خلال الفترة من 19 إلى 20 نوفمبر 2025 لمدة 8 محاضرات تدريبية، بتنظيم إدارة التطوير والتنمية - وزارة التربية.",
