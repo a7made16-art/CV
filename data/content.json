@@ -41,8 +41,8 @@
           "title": "Current Positions",
           "icon": "Briefcase",
           "items": [
-             "A professor at the Ministry of Education in the secondary stage - Fine Arts Education.",
-             "Member of the Innovation Department at the Kuwait Teachers Association, in the Change and Risk Management Committee.",
+            "A professor at the Ministry of Education in the secondary stage - Fine Arts Education.",
+            "Member of the Innovation Department at the Kuwait Teachers Association, in the Change and Risk Management Committee.",
             "Head of the Sports Media Department, Dasman News Network",
             "Owner of Spark Sport Academy.",
             "Director of the national teams at the General Authority for Applied Education and Training for futsal and grass football.",
@@ -84,7 +84,7 @@
           "title": "Kazma Sporting Club",
           "period": "2006 - 2013",
           "description": "Handball goalkeeper from 2006 - 2013. Joined the under 14, under 16, and under 17 teams which won the third place in the Union Cup Championship, earning the bronze medal.",
-         "image": "/kazma4.jpg",
+          "image": "/kazma4.jpg",
           "gallery": [
             "/kazma4.jpg",
             "/kazma1.jpg",
@@ -119,7 +119,7 @@
           "title": "Arab Sports Club - Grass Football",
           "period": "2015 - 2019",
           "description": "Administrative of the grass football team for 4 years under the supervision of the experienced administrative director of the football sector, Khalid Al-Qabandi.",
-           "image": "/arabi9.jpg",
+          "image": "/arabi9.jpg",
           "gallery": [
             "/arabi9.jpg",
             "/arabi4.jpg",
@@ -127,7 +127,7 @@
             "/arabi6.jpg",
             "/arabi7.jpg",
             "/arabi8.jpg"
-            ],
+          ],
           "details": [
             "Administrative for grass football team - 4 years",
             "Under supervision of Khalid Al-Qabandi",
@@ -144,7 +144,6 @@
             "Winner of the Best Administrative Award in the Sporty World Championship"
           ]
         },
-        
         {
           "title": "Arab Sports Club - U13",
           "period": "2018 - 2019",
@@ -161,7 +160,8 @@
           "details": [
             "Administrative for U-13 team",
             "Secured first place in Kuwaiti Football Federation Cup 2019-2020",
-            "Manager of Yellow team U-13 category 2006-2007", "Secured second place in the league"
+            "Manager of Yellow team U-13 category 2006-2007",
+            "Secured second place in the league"
           ]
         },
         {
@@ -178,7 +178,7 @@
             "Appointed as administrator for 20-year-old youth team",
             "Administrator for first team for two matches in Federation Cup",
             "Work period of 4 months only",
-             "Administrative for U-13 team 2004-2003 category",
+            "Administrative for U-13 team 2004-2003 category",
             "Secured second place in the league",
             "Secured second place in Sporty World Championship",
             "Administrative for U-13 team 2005-2004 category",
@@ -241,7 +241,11 @@
           "gallery": [
             "/gulf-cup-football-championship-stadium.jpg"
           ],
-          "details": ["Chairman one of the Organizing Committee", "Gulf Cup Championship in Kuwait", "Gulf 26 - 2024-2025"]
+          "details": [
+            "Chairman one of the Organizing Committee",
+            "Gulf Cup Championship in Kuwait",
+            "Gulf 26 - 2024-2025"
+          ]
         },
         {
           "title": "Kuwait U-16 National Team",
@@ -274,117 +278,116 @@
         }
       ]
     },
-     "media": {
-    "title": "Media Gallery",
-    "galleryTitle": "Photo Gallery",
-    "videosTitle": "Video Interviews",
-    "galleryDescription": "A collection of memorable moments from my professional journey",
-    "videosDescription": "Television and media interviews featuring my insights and experiences",
-    "gallery": [
-  {
-    "id": 1,
-    "title": "FIFA",
-    "description": "FIFA Licensed Players' Agent",
-    "src": "/fifa.jpg"
-  },
-  {
-    "id": 2,
-    "title": "Ashkanani Championship",
-    "description": "Founder of the First Ashkanani Ramadan Championship 2024",
-    "src": "/ashknani-comp.jpg"
-  },
-  {
-    "id": 3,
-    "title": "Lecturer",
-    "description": "Internationally Certified Trainer and Lecturer in Educational and Sports Management",
-    "src": "/lec.jpg"
-  },
-  {
-    "id": 4,
-    "title": "Lecturer at Kuwait Football Association",
-    "description": "Lecturer at the Kuwait Football Association",
-    "src": "/lec-kw.jpg"
-  },
-  {
-    "id": 5,
-    "title": "Delivering a Lecture at the Association",
-    "description": "Delivered a lecture at the Kuwait Football Association",
-    "src": "/lec-kw2.jpg"
-  },
-  {
-    "id": 6,
-    "title": "Lecture at Kuwait University",
-    "description": "Delivered a lecture at Kuwait University",
-    "src": "/lec-kw-un.jpg"
-  }
- ],
-     "videos": [
-      {
-        "id": 1,
-        "title": "Podcast 2025",
-        "description": "A comprehensive podcast discussing the latest developments in sports management and my professional journey",
-        "url": "https://www.youtube.com/watch?v=Aeqkwqx_YpY",
-        "date": "2025"
-      },
-      {
-        "id": 2,
-        "title": "Episode at the Center 2025",
-        "description": "Special episode recorded at the center, focusing on sports education and training methodologies",
-        "url": "https://www.youtube.com/watch?v=M_8fWkVwe9A",
-        "date": "2025"
-      },
-      {
-        "id": 3,
-        "title": "Sports Management Insights",
-        "description": "Sharing valuable insights on effective sports management strategies and leadership principles",
-        "url": "https://www.youtube.com/watch?v=VBTDTDIvzBQ",
-        "date": "2025"
-      },
-      {
-        "id": 4,
-        "title": "Athlete Development Program",
-        "description": "Discussing comprehensive approaches to athlete development and talent identification",
-        "url": "https://www.youtube.com/watch?v=2cbHrcGPH64",
-        "date": "2025"
-      },
-      {
-        "id": 5,
-        "title": "Sports Psychology in Action",
-        "description": "Practical applications of sports psychology techniques for enhancing athletic performance",
-        "url": "https://www.youtube.com/watch?v=EchwFvsSFu0",
-        "date": "2024"
-      },
-      {
-        "id": 6,
-        "title": "Future of Sports Education",
-        "description": "Exploring innovative approaches and future trends in sports education and training",
-        "url": "https://www.youtube.com/watch?v=t5L2UWmwpu8",
-        "date": "2024"
-      },
-      {
-        "id": 7,
-        "title": "Gulf Cup 26 Behind the Scenes",
-        "description": "Exclusive behind-the-scenes look at the organization and management of Gulf Cup 26",
-        "url": "https://www.youtube.com/watch?v=_EJloO8dduc",
-        "date": "2023"
-      },
-      {
-        "id": 8,
-        "title": "Sports Law and Regulations",
-        "description": "Detailed discussion on sports law, regulations, and their impact on modern sports management",
-        "url": "https://www.youtube.com/watch?v=YV3eN-Ocg3A",
-        "date": "2022"
-      },
-      {
-        "id": 9,
-        "title": "Building Successful Sports Academies",
-        "description": "Key principles and strategies for establishing and managing successful sports academies",
-        "url": "https://www.youtube.com/watch?v=ttq9mblsA_k",
-        "date": "2021"
-      }
-    ]
-  },
-  
+    "media": {
+      "title": "Media Gallery",
+      "galleryTitle": "Photo Gallery",
+      "videosTitle": "Video Interviews",
+      "galleryDescription": "A collection of memorable moments from my professional journey",
+      "videosDescription": "Television and media interviews featuring my insights and experiences",
+      "gallery": [
+        {
+          "id": 1,
+          "title": "FIFA",
+          "description": "FIFA Licensed Players' Agent",
+          "src": "/fifa.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Ashkanani Championship",
+          "description": "Founder of the First Ashkanani Ramadan Championship 2024",
+          "src": "/ashknani-comp.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Lecturer",
+          "description": "Internationally Certified Trainer and Lecturer in Educational and Sports Management",
+          "src": "/lec.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Lecturer at Kuwait Football Association",
+          "description": "Lecturer at the Kuwait Football Association",
+          "src": "/lec-kw.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Delivering a Lecture at the Association",
+          "description": "Delivered a lecture at the Kuwait Football Association",
+          "src": "/lec-kw2.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Lecture at Kuwait University",
+          "description": "Delivered a lecture at Kuwait University",
+          "src": "/lec-kw-un.jpg"
+        }
+      ],
+      "videos": [
+        {
+          "id": 1,
+          "title": "Podcast 2025",
+          "description": "A comprehensive podcast discussing the latest developments in sports management and my professional journey",
+          "url": "https://www.youtube.com/watch?v=Aeqkwqx_YpY",
+          "date": "2025"
+        },
+        {
+          "id": 2,
+          "title": "Episode at the Center 2025",
+          "description": "Special episode recorded at the center, focusing on sports education and training methodologies",
+          "url": "https://www.youtube.com/watch?v=M_8fWkVwe9A",
+          "date": "2025"
+        },
+        {
+          "id": 3,
+          "title": "Sports Management Insights",
+          "description": "Sharing valuable insights on effective sports management strategies and leadership principles",
+          "url": "https://www.youtube.com/watch?v=VBTDTDIvzBQ",
+          "date": "2025"
+        },
+        {
+          "id": 4,
+          "title": "Athlete Development Program",
+          "description": "Discussing comprehensive approaches to athlete development and talent identification",
+          "url": "https://www.youtube.com/watch?v=2cbHrcGPH64",
+          "date": "2025"
+        },
+        {
+          "id": 5,
+          "title": "Sports Psychology in Action",
+          "description": "Practical applications of sports psychology techniques for enhancing athletic performance",
+          "url": "https://www.youtube.com/watch?v=EchwFvsSFu0",
+          "date": "2024"
+        },
+        {
+          "id": 6,
+          "title": "Future of Sports Education",
+          "description": "Exploring innovative approaches and future trends in sports education and training",
+          "url": "https://www.youtube.com/watch?v=t5L2UWmwpu8",
+          "date": "2024"
+        },
+        {
+          "id": 7,
+          "title": "Gulf Cup 26 Behind the Scenes",
+          "description": "Exclusive behind-the-scenes look at the organization and management of Gulf Cup 26",
+          "url": "https://www.youtube.com/watch?v=_EJloO8dduc",
+          "date": "2023"
+        },
+        {
+          "id": 8,
+          "title": "Sports Law and Regulations",
+          "description": "Detailed discussion on sports law, regulations, and their impact on modern sports management",
+          "url": "https://www.youtube.com/watch?v=YV3eN-Ocg3A",
+          "date": "2022"
+        },
+        {
+          "id": 9,
+          "title": "Building Successful Sports Academies",
+          "description": "Key principles and strategies for establishing and managing successful sports academies",
+          "url": "https://www.youtube.com/watch?v=ttq9mblsA_k",
+          "date": "2021"
+        }
+      ]
+    },
     "achievements": {
       "title": "Achievements & Credentials",
       "featured": [
@@ -454,8 +457,7 @@
             "/my-pic3.jpg"
           ]
         },
-        
-         {
+        {
           "title": "Sports Injuries Diploma",
           "organization": "Qatari Sports Academy",
           "date": "2021",
@@ -532,19 +534,27 @@
       "coursesTitle": "Training Courses",
       "courses": [
         {
-        "title": "Training Course: Public Relations in the Sports Field",
-        "description": "Ahmed Ashkanani attended a training course titled \"Public Relations in the Sports Field,\" organized by the Leadership Preparation Institute of the Ministry of Sport. The course was conducted remotely from January 12 to January 13, 2026, with a total of 4 training hours.",
-        "images": [
-          "/public-relations-sports-training.jpg"
-        ]
-      },
-
+          "title": "Attendance Certificate: Arbitration in Settling Sports Disputes",
+          "description": "Ahmed Jaber Ashkanani attended a training course titled \"Arbitration in Settling Sports Disputes,\" organized by the Justice Institute for Private Training. The course was held from February 15 to 16, 2026, under the supervision of Associate Professor Dr. Hassan Al-Rashid and Dr. Adel Al-Sayed Ali Behbehani.",
+          "organization": "Justice Institute for Private Training",
+          "date": "February 15-16, 2026",
+          "images": [
+            "/certificate-arbitration-sports-disputes.jpg"
+          ]
+        },
         {
-    "title": "Attendance Certificate for a Training Program",
-    "description": "Certificate awarded to Ahmed Jaber Mohamed Ashkanani for attending the training program (Basic Knowledge and Skills for Supervisory Positions) for the academic year 2025/2026, held from November 19 to 20, 2025, consisting of 8 training sessions, organized by the Development and Training Department - Ministry of Education.",
-    "images": [
-      "/certificate-supervisory-training.jpg"
-    ]
+          "title": "Training Course: Public Relations in the Sports Field",
+          "description": "Ahmed Ashkanani attended a training course titled \"Public Relations in the Sports Field,\" organized by the Leadership Preparation Institute of the Ministry of Sport. The course was conducted remotely from January 12 to January 13, 2026, with a total of 4 training hours.",
+          "images": [
+            "/public-relations-sports-training.jpg"
+          ]
+        },
+        {
+          "title": "Attendance Certificate for a Training Program",
+          "description": "Certificate awarded to Ahmed Jaber Mohamed Ashkanani for attending the training program (Basic Knowledge and Skills for Supervisory Positions) for the academic year 2025/2026, held from November 19 to 20, 2025, consisting of 8 training sessions, organized by the Development and Training Department - Ministry of Education.",
+          "images": [
+            "/certificate-supervisory-training.jpg"
+          ]
         },
         {
           "title": "Attendance Certificate: Sports Sponsorship Course",
@@ -556,16 +566,12 @@
           ]
         },
         {
-            "title": "Attendance Certificate: Sports Sponsorship Course",
-            "description": "This is to certify that Ahmed Ashkanani attended the Sports Sponsorship Course, delivered remotely during the period from October 28 to 29, 2025, with a total of 4 training hours. The certificate is issued by the Leadership Development Institute, Ministry of Sport, and signed by Dr. Muznah Al-Marzouqi (General Director of the Leadership Development Institute) and Adel Al-Shuwairikh (Director of Education & Development Department).",
-            "organization": "Ministry of Sport – Leadership Development Institute",
-            "date": "October 28–29, 2025",
-            "images": [
-              "/sports-sponsorship-cert-2025.jpg"
-            ]
-          }
-          ,
-
+          "title": "Certificate of Attendance: Legal Protection in Sports",
+          "description": "Ahmed Ashkanani received a Certificate of Attendance from the Leadership Development Institute (LDI) at the Ministry of Sport for attending the course titled 'Legal Protection in Sports,' conducted online from October 15 to 16, 2025, with a total of 4 training hours. The certificate was issued under the signatures of Dr. Maznah bint Abdulrahman Al-Marzouqi (General Director of LDI) and Adel bin Ahmed Al-Shuweirikh (Director of Education and Development).",
+          "images": [
+            "/certificate-legal-protection-in-sports.jpg"
+          ]
+        },
         {
           "title": "Governance and Local Policies of Host Countries for Major Sporting Events",
           "description": "Leaders Preparation Institute - Ministry of Sports, 30-09-2025",
@@ -581,33 +587,20 @@
           ]
         },
         {
-          "title": "Certificate of Attendance: Legal Protection in Sports",
-          "description": "Ahmed Ashkanani received a Certificate of Attendance from the Leadership Development Institute (LDI) at the Ministry of Sport for attending the course titled 'Legal Protection in Sports,' conducted online from October 15 to 16, 2025, with a total of 4 training hours. The certificate was issued under the signatures of Dr. Maznah bint Abdulrahman Al-Marzouqi (General Director of LDI) and Adel bin Ahmed Al-Shuweirikh (Director of Education and Development).",
+          "title": "Attendance Certificate: Governance of Sports Institutions Program",
+          "description": "This is to certify that Mr. Ahmed Jaber Mohammed Ashkanani attended the training program titled \"Governance of Sports Institutions\", organized by the Abdullah Al-Salem Leadership Development Center. The program was held from November 3 to November 7, 2024. This certificate is issued and authorized by the center's administration.",
+          "organization": "Abdullah Al-Salem Leadership Development Center",
+          "date": "November 3–7, 2024",
           "images": [
-            "/certificate-legal-protection-in-sports.jpg"
+            "/governance-sports-institutions-training-2024.jpg",
+            "/governance-sports-institutions-training-2024-2.jpg"
           ]
         },
         {
           "title": "The Art of Public Speaking and Influence",
           "description": "Course Trainer: Lecturer Eid Al-Rashidi, October 28-29, 2024",
-          "images":["my-pic1.jpg"]
-        },
-        {
-        "title": "Attendance Certificate: Governance of Sports Institutions Program",
-        "description": "This is to certify that Mr. Ahmed Jaber Mohammed Ashkanani attended the training program titled \"Governance of Sports Institutions\", organized by the Abdullah Al-Salem Leadership Development Center. The program was held from November 3 to November 7, 2024. This certificate is issued and authorized by the center's administration.",
-        "organization": "Abdullah Al-Salem Leadership Development Center",
-        "date": "November 3–7, 2024",
-        "images": [
-          "/governance-sports-institutions-training-2024.jpg",
-          "/governance-sports-institutions-training-2024-2.jpg"
-        ]
-      },
-
-        {
-          "title": "Certificate of Participation: Arab University Futsal Championship",
-          "description": "Ahmed Jaber Mohammed Ashkanani participated in the Arab University Futsal Championship (Year of Zayed) organized by the Arab University Sports Federation, held in Abu Dhabi, United Arab Emirates, from October 3 to 11, 2018. The certificate was signed by Dr. Omar Abdulaziz Al-Hajji (Secretary General) and Dr. Saeed Hamad Al-Hassani (President of the Federation).",
           "images": [
-            "/certificate-arab-university-futsal-championship.jpg"
+            "my-pic1.jpg"
           ]
         },
         {
@@ -619,6 +612,13 @@
           ]
         },
         {
+          "title": "Training Course: Educational and Training Games",
+          "description": "Attended a training course titled 'Educational and Training Games' organized by Al-Enma Company for Management Consultancy and Training on March 7, 2020. The course was delivered by Mr. Abdullah Adel Zakaria, a specialist in modern teaching methods.",
+          "images": [
+            "/training-educational-and-training-games.jpg"
+          ]
+        },
+        {
           "title": "Workshop: Gamification in Education",
           "description": "Attended a workshop titled 'Gamification in Education' organized by Makers Academy on Saturday, January 11, 2020. The workshop lasted 3 training hours under the supervision of trainer Mr. Saleh Al-Ajil.",
           "images": [
@@ -626,10 +626,10 @@
           ]
         },
         {
-          "title": "Training Course: Educational and Training Games",
-          "description": "Attended a training course titled 'Educational and Training Games' organized by Al-Enma Company for Management Consultancy and Training on March 7, 2020. The course was delivered by Mr. Abdullah Adel Zakaria, a specialist in modern teaching methods.",
+          "title": "Certificate of Participation: Arab University Futsal Championship",
+          "description": "Ahmed Jaber Mohammed Ashkanani participated in the Arab University Futsal Championship (Year of Zayed) organized by the Arab University Sports Federation, held in Abu Dhabi, United Arab Emirates, from October 3 to 11, 2018. The certificate was signed by Dr. Omar Abdulaziz Al-Hajji (Secretary General) and Dr. Saeed Hamad Al-Hassani (President of the Federation).",
           "images": [
-            "/training-educational-and-training-games.jpg"
+            "/certificate-arab-university-futsal-championship.jpg"
           ]
         },
         {
@@ -651,8 +651,7 @@
           "description": "Professional injury management and prevention strategies",
           "images": [
             "/my-pic8.jpg"
-          ] 
-         
+          ]
         },
         {
           "title": "Healthy Behaviors and Nutrition for Athletes",
@@ -660,9 +659,7 @@
           "images": [
             "/my-pic9.jpg"
           ]
-          
         },
-        
         {
           "title": "Professional Managers Course",
           "description": "Kuwait Football Association professional management training",
@@ -671,18 +668,18 @@
           ]
         }
       ],
-       "appreciationTitle": "Appreciation Certificates",
-        "appreciation": [
-          {
-            "title": "Certificate of Appreciation: 8th GCC University and Higher Education Sports Tournament",
-            "description": "The Public Authority for Applied Education and Training extends its sincere thanks and appreciation to Captain Ahmed Jaber Mohammed Ashkanani (Team Administrator) for his active participation with the Authority's team, achieving second place in the football championship, and his outstanding representation of the State of Kuwait in the 8th Sports Tournament for Universities and Higher Education Institutions in GCC countries, held from April 1 to 10, 2019, in the State of Kuwait.",
-            "organization": "Public Authority for Applied Education and Training",
-            "date": "April 1–10, 2019",
-            "images": [
-              "/gcc-university-sports-tournament-2019.jpg"
-            ]
-          },
-          {
+      "appreciationTitle": "Appreciation Certificates",
+      "appreciation": [
+        {
+          "title": "Certificate of Appreciation: 8th GCC University and Higher Education Sports Tournament",
+          "description": "The Public Authority for Applied Education and Training extends its sincere thanks and appreciation to Captain Ahmed Jaber Mohammed Ashkanani (Team Administrator) for his active participation with the Authority's team, achieving second place in the football championship, and his outstanding representation of the State of Kuwait in the 8th Sports Tournament for Universities and Higher Education Institutions in GCC countries, held from April 1 to 10, 2019, in the State of Kuwait.",
+          "organization": "Public Authority for Applied Education and Training",
+          "date": "April 1–10, 2019",
+          "images": [
+            "/gcc-university-sports-tournament-2019.jpg"
+          ]
+        },
+        {
           "title": "Certificate of Appreciation: First Sports Games",
           "description": "The Public Authority for Applied Education and Training extends its sincere thanks and appreciation to Mr. Ahmed Jaber Ashkanani, Manager of the Futsal Team, for his participation in the First Sports Games organized by the Kuwait School and Higher Education Sports Federation, held from March 6 to March 30, 2022.",
           "organization": "Public Authority for Applied Education and Training",
@@ -692,16 +689,15 @@
           ]
         },
         {
-        "title": "Certificate of Appreciation",
-        "description": "The Art Education Department extends its sincere thanks and appreciation to Mr. Ahmed Jaber Ashkanani for his dedicated efforts in delivering a lecture titled (Drawing the Future) to 12th-grade students.",
-        "organization": "Capital Educational District - Yaqoub Yousef Al-Ghanim Secondary School (Boys)",
-        "date": "28-10-2025",
-        "images": [
-          "/certificate-art-education-department.jpg"
-        ]
-      }
-
-        ]   
+          "title": "Certificate of Appreciation",
+          "description": "The Art Education Department extends its sincere thanks and appreciation to Mr. Ahmed Jaber Ashkanani for his dedicated efforts in delivering a lecture titled (Drawing the Future) to 12th-grade students.",
+          "organization": "Capital Educational District - Yaqoub Yousef Al-Ghanim Secondary School (Boys)",
+          "date": "28-10-2025",
+          "images": [
+            "/certificate-art-education-department.jpg"
+          ]
+        }
+      ]
     },
     "contact": {
       "title": "Get In Touch",
@@ -810,7 +806,7 @@
       },
       "cta": "تواصل معي"
     },
-     "portfolio": {
+    "portfolio": {
       "title": "المسيرة المهنية",
       "items": [
         {
@@ -860,7 +856,7 @@
             "/arabi6.jpg",
             "/arabi7.jpg",
             "/arabi8.jpg"
-]          ,
+          ],
           "details": [
             "تحت إشراف خالد القبندي إداري كرة قدم العشبي لمدة 4 سنوات",
             "إداري براعم كرة القدم لمواليد 2006 - 2007 - 2008",
@@ -876,7 +872,6 @@
             "حاصل على جائزة أفضل إداري في بطولة سبورتي العالمية"
           ]
         },
-      
         {
           "title": "نادي العربي الرياضي - تحت 13",
           "period": "2018 - 2019",
@@ -893,11 +888,11 @@
           "details": [
             "إداري لفريق تحت ال 13 سنة",
             "الحصول على المركز الأول لكأس الاتحاد الكويتي لكرة القدم 2020 - 2019",
-            "مدير فريق الصفار تحت 13 سنة لفئة 2007 - 2006", "حاصل على المركز الثاني في الدوري"
-            
+            "مدير فريق الصفار تحت 13 سنة لفئة 2007 - 2006",
+            "حاصل على المركز الثاني في الدوري"
           ]
         },
-          {
+        {
           "title": "التضامن الرياضي",
           "period": "2018 - 2019",
           "description": "مدير فريق الناشئين تحت 17 ومباريات الفريق الأول في كأس الاتحاد",
@@ -921,23 +916,22 @@
           "gallery": [
             "/Applied-Education1.jpg",
             "/Applied-Education2.jpg"
-           
           ],
           "details": [
-    "إداري فريق كرة الصالات",
-  "الحصول على المركز الأول في كأس الجامعات لكرة قدم الصالات",
-  "إداري لفرق منتخبات الهيئة العامة للتعليم التطبيقي (الفريق الأول لكرة القدم والصالات)",
-  "كشاف لاعبين من طلاب الهيئة العامة للتعليم التطبيقي لمنتخبات الجامعات لعام 2018",
-  "إدارة المنتخبات الجامعية لكرة قدم الصالات وكرة القدم لعام 2018م",
-  "الحصول على المركز الثاني في بطولة الجامعات العربية المغلقة المقامة في أبو ظبي (عام زايد) تحت إشراف الدكتور حسين المكيمي – الهيئة العامة للتعليم التطبيقي 2019",
-  "الحصول على المركز الأول في بطولة الخليج الرياضية الثامنة للجامعات ومؤسسات التعليم العالي بدول مجلس التعاون المقامة في الكويت لكرة القدم",
-  "مدير منتخب الاتحاد الكويتي المدرسي والتعليم العالي لكرة الصالات – معسكر تدريبي 2020",
-  "مدير منتخب التعليم التطبيقي والتدريب لعام 2022م",
-  "مدير كرة القدم الشاطئية في وزارة التربية لموسم 2021 والمشاركة في ثلاث بطولات",
-  "كشاف لاعبين للاتحاد المدرسي والتعليم العالي للأعوام 2022 – 2024",
-  "مدير فريق الاتحاد الكويتي المدرسي والتعليم العالي لكرة قدم الصالات لعام 2023",
-  "تم التوقيع مع معهد سمارت مايند التعليمي، والمشاركة في معسكر تربوي ترفيهي مع مجموعة من الطلبة والطالبات من المرحلتين المتوسطة والثانوية، تضمن برامج تربوية وتعليمية وتدريبية على النفس وإدارة المال وحكم حياتية"
-]
+            "إداري فريق كرة الصالات",
+            "الحصول على المركز الأول في كأس الجامعات لكرة قدم الصالات",
+            "إداري لفرق منتخبات الهيئة العامة للتعليم التطبيقي (الفريق الأول لكرة القدم والصالات)",
+            "كشاف لاعبين من طلاب الهيئة العامة للتعليم التطبيقي لمنتخبات الجامعات لعام 2018",
+            "إدارة المنتخبات الجامعية لكرة قدم الصالات وكرة القدم لعام 2018م",
+            "الحصول على المركز الثاني في بطولة الجامعات العربية المغلقة المقامة في أبو ظبي (عام زايد) تحت إشراف الدكتور حسين المكيمي – الهيئة العامة للتعليم التطبيقي 2019",
+            "الحصول على المركز الأول في بطولة الخليج الرياضية الثامنة للجامعات ومؤسسات التعليم العالي بدول مجلس التعاون المقامة في الكويت لكرة القدم",
+            "مدير منتخب الاتحاد الكويتي المدرسي والتعليم العالي لكرة الصالات – معسكر تدريبي 2020",
+            "مدير منتخب التعليم التطبيقي والتدريب لعام 2022م",
+            "مدير كرة القدم الشاطئية في وزارة التربية لموسم 2021 والمشاركة في ثلاث بطولات",
+            "كشاف لاعبين للاتحاد المدرسي والتعليم العالي للأعوام 2022 – 2024",
+            "مدير فريق الاتحاد الكويتي المدرسي والتعليم العالي لكرة قدم الصالات لعام 2023",
+            "تم التوقيع مع معهد سمارت مايند التعليمي، والمشاركة في معسكر تربوي ترفيهي مع مجموعة من الطلبة والطالبات من المرحلتين المتوسطة والثانوية، تضمن برامج تربوية وتعليمية وتدريبية على النفس وإدارة المال وحكم حياتية"
+          ]
         },
         {
           "title": "إداري المنتخب الكويتي الأول لكرة القدم الشاطئية",
@@ -951,7 +945,10 @@
             "/national-football-team-lineup3.jpg",
             "/national-football-team-lineup4.jpg"
           ],
-          "details": ["إداري المنتخب الكويتي الأول لكرة القدم الشاطئية", "تمثيل المسابقات الدولية"]
+          "details": [
+            "إداري المنتخب الكويتي الأول لكرة القدم الشاطئية",
+            "تمثيل المسابقات الدولية"
+          ]
         },
         {
           "title": "رئيس أحد اللجان التنظيم بطولة كأس الخليج في الكويت",
@@ -960,9 +957,12 @@
           "image": "/gulf-cup-football-championship-stadium.jpg",
           "gallery": [
             "/gulf-cup-football-championship-stadium.jpg"
-      
           ],
-          "details": ["رئيس أحد لجان التنظيم", "بطولة كأس الخليج في الكويت", "خليجي 26 - 2025-2024"]
+          "details": [
+            "رئيس أحد لجان التنظيم",
+            "بطولة كأس الخليج في الكويت",
+            "خليجي 26 - 2025-2024"
+          ]
         },
         {
           "title": "إداري منتخب الكويت للبراعم",
@@ -971,11 +971,13 @@
           "image": "/youth-national-team-training2.jpg",
           "gallery": [
             "/youth-national-team-training2.jpg"
-           
           ],
-          "details": ["إداري منتخب الكويت للبراعم", "مواليد 2005", "معسكر قطر مع المنتخب الوطني"]
+          "details": [
+            "إداري منتخب الكويت للبراعم",
+            "مواليد 2005",
+            "معسكر قطر مع المنتخب الوطني"
+          ]
         },
-       
         {
           "title": "أكاديمية سبارك سبورت",
           "period": "2021 - حتى الآن",
@@ -984,7 +986,12 @@
           "gallery": [
             "/modern-sports-academy-training-facility1.jpg"
           ],
-          "details": ["مؤسس ومالك", "برامج تدريب رياضي شاملة", "التركيز على تطوير الشباب", "تخصصات رياضية متعددة"]
+          "details": [
+            "مؤسس ومالك",
+            "برامج تدريب رياضي شاملة",
+            "التركيز على تطوير الشباب",
+            "تخصصات رياضية متعددة"
+          ]
         }
       ]
     },
@@ -997,7 +1004,7 @@
       "gallery": [
         {
           "id": 1,
-          "title":"الفيفا",
+          "title": "الفيفا",
           "description": "وكيل لاعبين معتمد من الفيفا",
           "src": "/fifa.jpg"
         },
@@ -1031,7 +1038,6 @@
           "description": "إلقاء محاضرة فى جامعة الكويت",
           "src": "/lec-kw-un.jpg"
         }
-       
       ],
       "videos": [
         {
@@ -1099,7 +1105,6 @@
         }
       ]
     },
-    
     "achievements": {
       "title": "الإنجازات والشهادات",
       "featured": [
@@ -1169,8 +1174,6 @@
             "/my-pic3.jpg"
           ]
         },
-        
-
         {
           "title": "حاصل على شهادة دبلوم إصابات الملعب",
           "organization": "الأكاديمية الرياضية القطرية",
@@ -1248,21 +1251,35 @@
       "coursesTitle": "الدورات التدريبية",
       "courses": [
         {
-            "title": "دورة تدريبية: العلاقات العامة في المجال الرياضي",
-            "description": "حضر أحمد أشكناني دورة تدريبية بعنوان «العلاقات العامة في المجال الرياضي» والتي نظمها معهد إعداد القادة بوزارة الرياضة، وتم تنفيذها عن بُعد خلال الفترة من 12 إلى 13 يناير 2026، بمعدل إجمالي 4 ساعات تدريبية.",
-            "images": [
-              "/public-relations-sports-training.jpg"
-            ]
-          },
-
+          "title": "شهادة حضور دورة تدريبية: التحكيم في فض المنازعات الرياضية",
+          "description": "شهد معهد العدالة للتدريب الأهلي بأن الأستاذ/ أحمد جابر أشكناني قد حضر دورة تدريبية بعنوان «التحكيم في فض المنازعات الرياضية» التي أقيمت في الفترة من 15 - 16 فبراير 2026، بإشراف الأستاذ المشارك الدكتور حسن الرشيد والمحامي الدكتور عادل السيد علي بهبهاني.",
+          "organization": "معهد العدالة للتدريب الأهلي",
+          "date": "15 - 16 فبراير 2026",
+          "images": [
+            "/certificate-arbitration-sports-disputes.jpg"
+          ]
+        },
         {
-        "title": "شهادة حضور برنامج تدريبي",
-        "description": "شهادة بحضور أحمد جابر محمد أشكناني للبرنامج التدريبي (المعارف والمهارات الأساسية للوظائف الإشرافية) للعام الدراسي 2025/2026، والذي عُقد خلال الفترة من 19 إلى 20 نوفمبر 2025 لمدة 8 محاضرات تدريبية، بتنظيم إدارة التطوير والتنمية - وزارة التربية.",
-        "images": [
-          "/certificate-supervisory-training.jpg"
-        ]
-      }
-      ,
+          "title": "دورة تدريبية: العلاقات العامة في المجال الرياضي",
+          "description": "حضر أحمد أشكناني دورة تدريبية بعنوان «العلاقات العامة في المجال الرياضي» والتي نظمها معهد إعداد القادة بوزارة الرياضة، وتم تنفيذها عن بُعد خلال الفترة من 12 إلى 13 يناير 2026، بمعدل إجمالي 4 ساعات تدريبية.",
+          "images": [
+            "/public-relations-sports-training.jpg"
+          ]
+        },
+        {
+          "title": "شهادة حضور برنامج تدريبي",
+          "description": "شهادة بحضور أحمد جابر محمد أشكناني للبرنامج التدريبي (المعارف والمهارات الأساسية للوظائف الإشرافية) للعام الدراسي 2025/2026، والذي عُقد خلال الفترة من 19 إلى 20 نوفمبر 2025 لمدة 8 محاضرات تدريبية، بتنظيم إدارة التطوير والتنمية - وزارة التربية.",
+          "images": [
+            "/certificate-supervisory-training.jpg"
+          ]
+        },
+        {
+          "title": "شهادة حضور: دورة الحماية القانونية في الرياضة",
+          "description": "حصل أحمد أشكناني على شهادة حضور من معهد إعداد القادة بوزارة الرياضة، لحضوره دورة بعنوان «الحماية القانونية في الرياضة»، والمنفذة عن بُعد خلال الفترة من 15 إلى 16 أكتوبر 2025، بإجمالي 4 ساعات تدريبية. صدرت الشهادة بتوقيع د. مزنة بنت عبدالرحمن المرزوقي (مدير عام معهد إعداد القادة) وعادل بن أحمد الشويرخ (مدير إدارة التعليم والتطوير).",
+          "images": [
+            "/certificate-legal-protection-in-sports.jpg"
+          ]
+        },
         {
           "title": "الحوكمة والسياسات المحلية للدول المستضيفة للاحداث الرياضية الكبرى",
           "description": "معهد اعداد القادة بوزارة الرياضة 30-9-2025",
@@ -1278,20 +1295,6 @@
           ]
         },
         {
-          "title": "شهادة حضور: دورة الحماية القانونية في الرياضة",
-          "description": "حصل أحمد أشكناني على شهادة حضور من معهد إعداد القادة بوزارة الرياضة، لحضوره دورة بعنوان «الحماية القانونية في الرياضة»، والمنفذة عن بُعد خلال الفترة من 15 إلى 16 أكتوبر 2025، بإجمالي 4 ساعات تدريبية. صدرت الشهادة بتوقيع د. مزنة بنت عبدالرحمن المرزوقي (مدير عام معهد إعداد القادة) وعادل بن أحمد الشويرخ (مدير إدارة التعليم والتطوير).",
-          "images": [
-            "/certificate-legal-protection-in-sports.jpg"
-          ]
-        },
-        
-        {
-          "title": "دورة فن الإلقاء والتأثير",
-          "description": "مدرب الدورة المحاضر/ عيد الرشيدي، 2024 / 10 /28-29",
-          "images":["my-pic1.jpg"]
-          
-        },
-        {
           "title": "شهادة حضور: برنامج حوكمة المؤسسات الرياضية",
           "description": "يشهد مركز عبدالله السالم لإعداد القادة بأن السيد/ أحمد جابر محمد أشكناني قد حضر البرنامج التدريبي بعنوان «حوكمة المؤسسات الرياضية» والذي أقيم خلال الفترة من 03/11/2024 م إلى 07/11/2024 م. تم إصدار هذه الشهادة بتوقيع وإعتماد إدارة المركز.",
           "organization": "مركز عبدالله السالم لإعداد القادة",
@@ -1301,12 +1304,11 @@
             "/governance-sports-institutions-training-2024-2.jpg"
           ]
         },
-
         {
-          "title": "شهادة مشاركة: البطولة العربية الجامعية لكرة القدم للصالات",
-          "description": "شارك أحمد جابر محمد أشكناني في فعاليات البطولة العربية الجامعية لكرة القدم للصالات (عام زايد) التي نظمها الاتحاد العربي للرياضة الجامعية، والمقامة في مدينة أبوظبي بدولة الإمارات العربية المتحدة، خلال الفترة من 3 إلى 11 أكتوبر 2018. صدرت الشهادة بتوقيع د. عمر عبدالعزيز الحاجي (الأمين العام) ود. سعيد حمد الحساني (رئيس الاتحاد).",
+          "title": "دورة فن الإلقاء والتأثير",
+          "description": "مدرب الدورة المحاضر/ عيد الرشيدي، 2024 / 10 /28-29",
           "images": [
-            "/certificate-arab-university-futsal-championship.jpg"
+            "my-pic1.jpg"
           ]
         },
         {
@@ -1318,6 +1320,13 @@
           ]
         },
         {
+          "title": "دورة تدريبية: الألعاب التربوية والتدريبية",
+          "description": "شارك في دورة تدريبية بعنوان «الألعاب التربوية والتدريبية» بتنظيم شركة الإنماء للاستشارات الإدارية والتدريب، بتاريخ 7 مارس 2020، بإشراف المحاضر أ. عبدالله عادل زكريا، المتخصص في أساليب التعليم الحديثة.",
+          "images": [
+            "/training-educational-and-training-games.jpg"
+          ]
+        },
+        {
           "title": "ورشة عمل: التلعيب في التعليم",
           "description": " ورشة عمل بعنوان «التلعيب في التعليم» بتنظيم Makers Academy يوم السبت 11 يناير 2020، لمدة 3 ساعات تدريبية، بإشراف المدرب أ. صالح العجيل.",
           "images": [
@@ -1325,10 +1334,10 @@
           ]
         },
         {
-          "title": "دورة تدريبية: الألعاب التربوية والتدريبية",
-          "description": "شارك في دورة تدريبية بعنوان «الألعاب التربوية والتدريبية» بتنظيم شركة الإنماء للاستشارات الإدارية والتدريب، بتاريخ 7 مارس 2020، بإشراف المحاضر أ. عبدالله عادل زكريا، المتخصص في أساليب التعليم الحديثة.",
+          "title": "شهادة مشاركة: البطولة العربية الجامعية لكرة القدم للصالات",
+          "description": "شارك أحمد جابر محمد أشكناني في فعاليات البطولة العربية الجامعية لكرة القدم للصالات (عام زايد) التي نظمها الاتحاد العربي للرياضة الجامعية، والمقامة في مدينة أبوظبي بدولة الإمارات العربية المتحدة، خلال الفترة من 3 إلى 11 أكتوبر 2018. صدرت الشهادة بتوقيع د. عمر عبدالعزيز الحاجي (الأمين العام) ود. سعيد حمد الحساني (رئيس الاتحاد).",
           "images": [
-            "/training-educational-and-training-games.jpg"
+            "/certificate-arab-university-futsal-championship.jpg"
           ]
         },
         {
@@ -1348,9 +1357,10 @@
         {
           "title": "دورة طرق و إدارة ملف الإصابات للاعبين",
           "description": "استراتيجيات إدارة الإصابات والوقاية المهنية",
-          "images": ["/my-pic8.jpg"
+          "images": [
+            "/my-pic8.jpg"
           ]
-                },
+        },
         {
           "title": "دورة السلوكيات الصحية و الغذائية للرياضيين",
           "description": "التغذية الرياضية وإدارة نمط الحياة الصحي",
@@ -1358,7 +1368,6 @@
             "/my-pic9.jpg"
           ]
         },
-       
         {
           "title": "دورة مدراء الاحتراف",
           "description": "التدريب الإداري المهني في اتحاد الكويت لكرة القدم",
@@ -1367,39 +1376,36 @@
           ]
         }
       ],
-       "appreciationTitle": "شهادات التقدير",
-        "appreciation": [
-         {
-            "title": "شهادة تقدير: الدورة الرياضية الثامنة للجامعات ومؤسسات التعليم العالي بدول مجلس التعاون",
-            "description": "تتقدم الهيئة العامة للتعليم التطبيقي والتدريب بخالص الشكر والتقدير إلى الكابتن أحمد جابر محمد أشكناني (إداري الفريق) على مشاركته الفعالة بمنتخب الهيئة العامة للتعليم التطبيقي والتدريب وإحرازه المركز الثاني في بطولة كرة القدم وتمثيله المتميز لدولة الكويت في الدورة الرياضية الثامنة للجامعات ومؤسسات التعليم العالي بدول مجلس التعاون لدول الخليج العربية، المقامة خلال الفترة من 1 إلى 10 أبريل 2019 في دولة الكويت.",
-            "organization": "الهيئة العامة للتعليم التطبيقي والتدريب",
-            "date": "1–10 أبريل 2019",
-            "images": [
-              "/gcc-university-sports-tournament-2019.jpg"
-            ]
-          }
-        ,
-          {
-            "title": "شهادة شكر وتقدير: دورة الألعاب الرياضية الأولى",
-            "description": "تتقدم الهيئة العامة للتعليم التطبيقي والتدريب بخالص الشكر والتقدير إلى السيد أحمد جابر أشكناني، مدير فريق كرة قدم الصالات، لمشاركته في دورة الألعاب الرياضية الأولى للاتحاد الكويتي الرياضي المدرسي والتعليم العالي، والتي أقيمت في الفترة من 6 مارس 2022 حتى 30 مارس 2022.",
-            "organization": "الهيئة العامة للتعليم التطبيقي والتدريب",
-            "date": "6–30 مارس 2022",
-            "images": [
-              "/first-sports-games-2022.jpg"
-            ]
-          },
-          {
-            "title": "شهادة شكر وتقدير",
-            "description": "يتقدم قسم التربية الفنية بجزيل الشكر والتقدير إلى الأستاذ أحمد جابر أشكناني على ما قدمه من جهوده المخلصة في تقديم محاضرة عنوانها (رسم المستقبل) لطلبة الثاني عشر.",
-            "organization": "منطقة العاصمة التعليمية - مدرسة ثانوية يعقوب يوسف الغنيم (بنين)",
-            "date": "28-10-2025",
-            "images": [
-              "/certificate-art-education-department.jpg"
-            ]
-          }
-
-
-        ]
+      "appreciationTitle": "شهادات التقدير",
+      "appreciation": [
+        {
+          "title": "شهادة تقدير: الدورة الرياضية الثامنة للجامعات ومؤسسات التعليم العالي بدول مجلس التعاون",
+          "description": "تتقدم الهيئة العامة للتعليم التطبيقي والتدريب بخالص الشكر والتقدير إلى الكابتن أحمد جابر محمد أشكناني (إداري الفريق) على مشاركته الفعالة بمنتخب الهيئة العامة للتعليم التطبيقي والتدريب وإحرازه المركز الثاني في بطولة كرة القدم وتمثيله المتميز لدولة الكويت في الدورة الرياضية الثامنة للجامعات ومؤسسات التعليم العالي بدول مجلس التعاون لدول الخليج العربية، المقامة خلال الفترة من 1 إلى 10 أبريل 2019 في دولة الكويت.",
+          "organization": "الهيئة العامة للتعليم التطبيقي والتدريب",
+          "date": "1–10 أبريل 2019",
+          "images": [
+            "/gcc-university-sports-tournament-2019.jpg"
+          ]
+        },
+        {
+          "title": "شهادة شكر وتقدير: دورة الألعاب الرياضية الأولى",
+          "description": "تتقدم الهيئة العامة للتعليم التطبيقي والتدريب بخالص الشكر والتقدير إلى السيد أحمد جابر أشكناني، مدير فريق كرة قدم الصالات، لمشاركته في دورة الألعاب الرياضية الأولى للاتحاد الكويتي الرياضي المدرسي والتعليم العالي، والتي أقيمت في الفترة من 6 مارس 2022 حتى 30 مارس 2022.",
+          "organization": "الهيئة العامة للتعليم التطبيقي والتدريب",
+          "date": "6–30 مارس 2022",
+          "images": [
+            "/first-sports-games-2022.jpg"
+          ]
+        },
+        {
+          "title": "شهادة شكر وتقدير",
+          "description": "يتقدم قسم التربية الفنية بجزيل الشكر والتقدير إلى الأستاذ أحمد جابر أشكناني على ما قدمه من جهوده المخلصة في تقديم محاضرة عنوانها (رسم المستقبل) لطلبة الثاني عشر.",
+          "organization": "منطقة العاصمة التعليمية - مدرسة ثانوية يعقوب يوسف الغنيم (بنين)",
+          "date": "28-10-2025",
+          "images": [
+            "/certificate-art-education-department.jpg"
+          ]
+        }
+      ]
     },
     "contact": {
       "title": "تواصل معي",
