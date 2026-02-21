@@ -534,6 +534,15 @@
       "coursesTitle": "Training Courses",
       "courses": [
         {
+          "title": "Attendance Certificate: Leadership in the Sports Field Course",
+          "description": "Ahmed Ashkanani attended a training course titled \"Leadership in the Sports Field,\" organized by the Leaders Development Institute of the Ministry of Sport. The course was conducted remotely on February 20, 2026, with a total of 2 training hours.",
+          "organization": "Leaders Development Institute (LDI) - Ministry of Sport",
+          "date": "February 20, 2026",
+          "images": [
+            "/leaders-sports-course.jpg"
+          ]
+        },
+        {
           "title": "Attendance Certificate: Arbitration in Settling Sports Disputes",
           "description": "Ahmed Jaber Ashkanani attended a training course titled \"Arbitration in Settling Sports Disputes,\" organized by the Justice Institute for Private Training. The course was held from February 15 to 16, 2026, under the supervision of Associate Professor Dr. Hassan Al-Rashid and Dr. Adel Al-Sayed Ali Behbehani.",
           "organization": "Justice Institute for Private Training",
@@ -1250,6 +1259,15 @@
       ],
       "coursesTitle": "الدورات التدريبية",
       "courses": [
+        {
+          "title": "شهادة حضور: دورة القيادة في المجال الرياضي",
+          "description": "شهد معهد إعداد القادة بوزارة الرياضة بأن أحمد أشكناني قد حضر دورة القيادة في المجال الرياضي، والتي تم تنفيذها عن بعد خلال الفترة 20 / 2 / 2026، وذلك بمعدل إجمالي 2 ساعة تدريبية.",
+          "organization": "معهد إعداد القادة - وزارة الرياضة",
+          "date": "20 فبراير 2026",
+          "images": [
+            "/leaders-sports-course.jpg"
+          ]
+        },
         {
           "title": "شهادة حضور دورة تدريبية: التحكيم في فض المنازعات الرياضية",
           "description": "شهد معهد العدالة للتدريب الأهلي بأن الأستاذ/ أحمد جابر أشكناني قد حضر دورة تدريبية بعنوان «التحكيم في فض المنازعات الرياضية» التي أقيمت في الفترة من 15 - 16 فبراير 2026، بإشراف الأستاذ المشارك الدكتور حسن الرشيد والمحامي الدكتور عادل السيد علي بهبهاني.",
