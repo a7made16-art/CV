@@ -534,6 +534,24 @@
       "coursesTitle": "Training Courses",
       "courses": [
         {
+          "title": "Attendance Certificate: Employment of Artificial Intelligence in Sports Course",
+          "description": "Ahmed Ashkanani attended a training course titled \"Employment of Artificial Intelligence in Sports,\" organized by the Leaders Development Institute of the Ministry of Sport. The course was conducted remotely on February 25, 2026, with a total of 2 training hours.",
+          "organization": "Leaders Development Institute (LDI) - Ministry of Sport",
+          "date": "February 25, 2026",
+          "images": [
+            "/ai-sports-course-2026.jpg"
+          ]
+        },
+        {
+          "title": "Attendance Certificate: Sports Sponsorships Course",
+          "description": "Ahmed Ashkanani attended a training course titled \"Sports Sponsorships,\" organized by the Leaders Development Institute of the Ministry of Sport. The course was conducted remotely on February 24, 2026, with a total of 2 training hours.",
+          "organization": "Leaders Development Institute (LDI) - Ministry of Sport",
+          "date": "February 24, 2026",
+          "images": [
+            "/sports-sponsorships-course-2026.jpg"
+          ]
+        },
+        {
           "title": "Attendance Certificate: Leadership in the Sports Field Course",
           "description": "Ahmed Ashkanani attended a training course titled \"Leadership in the Sports Field,\" organized by the Leaders Development Institute of the Ministry of Sport. The course was conducted remotely on February 20, 2026, with a total of 2 training hours.",
           "organization": "Leaders Development Institute (LDI) - Ministry of Sport",
@@ -1260,12 +1278,30 @@
       "coursesTitle": "الدورات التدريبية",
       "courses": [
         {
+          "title": "شهادة حضور: دورة توظيف الذكاء الاصطناعي في الرياضة",
+          "description": "شهد معهد إعداد القادة بوزارة الرياضة بأن أحمد أشكناني قد حضر دورة توظيف الذكاء الاصطناعي في الرياضة، والتي تم تنفيذها عن بعد خلال الفترة 25 / 2 / 2026، وذلك بمعدل إجمالي 2 ساعة تدريبية.",
+          "organization": "معهد إعداد القادة - وزارة الرياضة",
+          "date": "25 فبراير 2026",
+          "images": [
+            "/ai-sports-course-2026.jpg"
+          ]
+        },
+        {
+          "title": "شهادة حضور: دورة الرعايات الرياضية",
+          "description": "شهد معهد إعداد القادة بوزارة الرياضة بأن أحمد أشكناني قد حضر دورة الرعايات الرياضية، والتي تم تنفيذها عن بعد خلال الفترة 24 / 2 / 2026، وذلك بمعدل إجمالي 2 ساعة تدريبية.",
+          "organization": "معهد إعداد القادة - وزارة الرياضة",
+          "date": "24 فبراير 2026",
+          "images": [
+            "/sports-sponsorships-course-2026.jpg"
+          ]
+        },
+        {
           "title": "شهادة حضور: دورة القيادة في المجال الرياضي",
           "description": "شهد معهد إعداد القادة بوزارة الرياضة بأن أحمد أشكناني قد حضر دورة القيادة في المجال الرياضي، والتي تم تنفيذها عن بعد خلال الفترة 20 / 2 / 2026، وذلك بمعدل إجمالي 2 ساعة تدريبية.",
           "organization": "معهد إعداد القادة - وزارة الرياضة",
           "date": "20 فبراير 2026",
           "images": [
-            "/leaders-sports-course.jpg"
+            "/leaders-sports-ourse.jpg"
           ]
         },
         {
