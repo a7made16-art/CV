@@ -534,82 +534,19 @@
       "coursesTitle": "Training Courses",
       "courses": [
         {
-          "title": "Attendance Certificate: Employment of Artificial Intelligence in Sports Course",
-          "description": "Ahmed Ashkanani attended a training course titled \"Employment of Artificial Intelligence in Sports,\" organized by the Leaders Development Institute of the Ministry of Sport. The course was conducted remotely on February 25, 2026, with a total of 2 training hours.",
-          "organization": "Leaders Development Institute (LDI) - Ministry of Sport",
-          "date": "February 25, 2026",
+          "title": "Training Certificates: Leaders Development Institute (LDI) – Saudi Ministry of Sport",
+          "description": "Ahmed Ashkanani received multiple attendance certificates from the Leaders Development Institute (LDI) at the Saudi Ministry of Sport for completing the following training courses conducted remotely:\n• Investment and Entrepreneurship in Sports – March 3, 2026 (2 hrs)\n• Employment of Artificial Intelligence in Sports – February 25, 2026 (2 hrs)\n• Sports Sponsorships – February 24, 2026 (2 hrs)\n• Leadership in the Sports Field – February 20, 2026 (2 hrs)\n• Public Relations in the Sports Field – January 12–13, 2026 (4 hrs)\n• Sports Sponsorship Course – October 28–29, 2025 (4 hrs)\n• Legal Protection in Sports – October 15–16, 2025 (4 hrs)\n• Governance and Local Policies of Host Countries for Major Sporting Events – September 30, 2025 (4 hrs)\n• Artificial Intelligence Applications in Sports – September 17–18, 2025 (4 hrs)\nAll certificates were issued by Dr. Muznah bint Abdulrahman Al-Marzouqi (General Director, LDI) and Adel bin Ahmed Al-Shuweirikh (Director of Education & Development).",
+          "organization": "Leaders Development Institute (LDI) - Saudi Ministry of Sport",
+          "date": "2025 – 2026",
           "images": [
-            "/ai-sports-course-2026.jpg"
-          ]
-        },
-        {
-          "title": "Attendance Certificate: Sports Sponsorships Course",
-          "description": "Ahmed Ashkanani attended a training course titled \"Sports Sponsorships,\" organized by the Leaders Development Institute of the Ministry of Sport. The course was conducted remotely on February 24, 2026, with a total of 2 training hours.",
-          "organization": "Leaders Development Institute (LDI) - Ministry of Sport",
-          "date": "February 24, 2026",
-          "images": [
-            "/sports-sponsorships-course-2026.jpg"
-          ]
-        },
-        {
-          "title": "Attendance Certificate: Leadership in the Sports Field Course",
-          "description": "Ahmed Ashkanani attended a training course titled \"Leadership in the Sports Field,\" organized by the Leaders Development Institute of the Ministry of Sport. The course was conducted remotely on February 20, 2026, with a total of 2 training hours.",
-          "organization": "Leaders Development Institute (LDI) - Ministry of Sport",
-          "date": "February 20, 2026",
-          "images": [
-            "/leaders-sports-course.jpg"
-          ]
-        },
-        {
-          "title": "Attendance Certificate: Arbitration in Settling Sports Disputes",
-          "description": "Ahmed Jaber Ashkanani attended a training course titled \"Arbitration in Settling Sports Disputes,\" organized by the Justice Institute for Private Training. The course was held from February 15 to 16, 2026, under the supervision of Associate Professor Dr. Hassan Al-Rashid and Dr. Adel Al-Sayed Ali Behbehani.",
-          "organization": "Justice Institute for Private Training",
-          "date": "February 15-16, 2026",
-          "images": [
-            "/certificate-arbitration-sports-disputes.jpg"
-          ]
-        },
-        {
-          "title": "Training Course: Public Relations in the Sports Field",
-          "description": "Ahmed Ashkanani attended a training course titled \"Public Relations in the Sports Field,\" organized by the Leadership Preparation Institute of the Ministry of Sport. The course was conducted remotely from January 12 to January 13, 2026, with a total of 4 training hours.",
-          "images": [
-            "/public-relations-sports-training.jpg"
-          ]
-        },
-        {
-          "title": "Attendance Certificate for a Training Program",
-          "description": "Certificate awarded to Ahmed Jaber Mohamed Ashkanani for attending the training program (Basic Knowledge and Skills for Supervisory Positions) for the academic year 2025/2026, held from November 19 to 20, 2025, consisting of 8 training sessions, organized by the Development and Training Department - Ministry of Education.",
-          "images": [
-            "/certificate-supervisory-training.jpg"
-          ]
-        },
-        {
-          "title": "Attendance Certificate: Sports Sponsorship Course",
-          "description": "This is to certify that Ahmed Ashkanani attended the Sports Sponsorship Course, delivered remotely during the period from October 28 to 29, 2025, with a total of 4 training hours. The certificate is issued by the Leadership Development Institute, Ministry of Sport, and signed by Dr. Muznah Al-Marzouqi (General Director of the Leadership Development Institute) and Adel Al-Shuwairikh (Director of Education & Development Department).",
-          "organization": "Ministry of Sport – Leadership Development Institute",
-          "date": "October 28–29, 2025",
-          "images": [
-            "/sports-sponsorship-cert-2025.jpg"
-          ]
-        },
-        {
-          "title": "Certificate of Attendance: Legal Protection in Sports",
-          "description": "Ahmed Ashkanani received a Certificate of Attendance from the Leadership Development Institute (LDI) at the Ministry of Sport for attending the course titled 'Legal Protection in Sports,' conducted online from October 15 to 16, 2025, with a total of 4 training hours. The certificate was issued under the signatures of Dr. Maznah bint Abdulrahman Al-Marzouqi (General Director of LDI) and Adel bin Ahmed Al-Shuweirikh (Director of Education and Development).",
-          "images": [
-            "/certificate-legal-protection-in-sports.jpg"
-          ]
-        },
-        {
-          "title": "Governance and Local Policies of Host Countries for Major Sporting Events",
-          "description": "Leaders Preparation Institute - Ministry of Sports, 30-09-2025",
-          "images": [
-            "/course-sports-governance.jpg"
-          ]
-        },
-        {
-          "title": "Artificial Intelligence Applications in Sports",
-          "description": "Ahmed Ashkanani attended a training course titled 'Artificial Intelligence Applications in Sports,' organized by the Leadership Development Institute, Ministry of Sport. The course was conducted remotely from September 17 to 18, 2025, with a total of 4 training hours.",
-          "images": [
+            "/investment-entrepreneurship-sports-2026.jpg",
+            "/ai-sports-course-2026.jpg",
+            "/sports-sponsorships-course-2026.jpg",
+            "/leaders-sports-course.jpg",
+            "/public-relations-sports-training.jpg",
+            "/sports-sponsorship-cert-2025.jpg",
+            "/certificate-legal-protection-in-sports.jpg",
+            "/course-sports-governance.jpg",
             "/ai-in-sports-training.jpg"
           ]
         },
@@ -1278,73 +1215,19 @@
       "coursesTitle": "الدورات التدريبية",
       "courses": [
         {
-          "title": "شهادة حضور: دورة توظيف الذكاء الاصطناعي في الرياضة",
-          "description": "شهد معهد إعداد القادة بوزارة الرياضة بأن أحمد أشكناني قد حضر دورة توظيف الذكاء الاصطناعي في الرياضة، والتي تم تنفيذها عن بعد خلال الفترة 25 / 2 / 2026، وذلك بمعدل إجمالي 2 ساعة تدريبية.",
-          "organization": "معهد إعداد القادة - وزارة الرياضة",
-          "date": "25 فبراير 2026",
+          "title": "شهادات حضور: معهد إعداد القادة (LDI) - وزارة الرياضة السعودية",
+          "description": "حصل أحمد أشكناني على شهادات حضور متعددة من معهد إعداد القادة (LDI) بوزارة الرياضة السعودية، وذلك لإتمامه الدورات التدريبية التالية عن بُعد:\n• دورة الاستثمار وريادة الأعمال في الرياضة – 3 مارس 2026 (2 ساعة)\n• دورة توظيف الذكاء الاصطناعي في الرياضة – 25 فبراير 2026 (2 ساعة)\n• دورة الرعايات الرياضية – 24 فبراير 2026 (2 ساعة)\n• دورة القيادة في المجال الرياضي – 20 فبراير 2026 (2 ساعة)\n• دورة العلاقات العامة في المجال الرياضي – 12–13 يناير 2026 (4 ساعات)\n• دورة الرعايات الرياضية – 28–29 أكتوبر 2025 (4 ساعات)\n• دورة الحماية القانونية في الرياضة – 15–16 أكتوبر 2025 (4 ساعات)\n• الحوكمة والسياسات المحلية للدول المستضيفة للأحداث الرياضية الكبرى – 30 سبتمبر 2025 (4 ساعات)\n• توظيف الذكاء الاصطناعي في الرياضة – 17–18 سبتمبر 2025 (4 ساعات)\nصدرت جميع الشهادات بتوقيع د. مزنة بنت عبدالرحمن المرزوقي (مدير عام معهد إعداد القادة) وعادل بن أحمد الشويرخ (مدير إدارة التعليم والتطوير).",
+          "organization": "معهد إعداد القادة (LDI) - وزارة الرياضة السعودية",
+          "date": "2025 – 2026",
           "images": [
-            "/ai-sports-course-2026.jpg"
-          ]
-        },
-        {
-          "title": "شهادة حضور: دورة الرعايات الرياضية",
-          "description": "شهد معهد إعداد القادة بوزارة الرياضة بأن أحمد أشكناني قد حضر دورة الرعايات الرياضية، والتي تم تنفيذها عن بعد خلال الفترة 24 / 2 / 2026، وذلك بمعدل إجمالي 2 ساعة تدريبية.",
-          "organization": "معهد إعداد القادة - وزارة الرياضة",
-          "date": "24 فبراير 2026",
-          "images": [
-            "/sports-sponsorships-course-2026.jpg"
-          ]
-        },
-        {
-          "title": "شهادة حضور: دورة القيادة في المجال الرياضي",
-          "description": "شهد معهد إعداد القادة بوزارة الرياضة بأن أحمد أشكناني قد حضر دورة القيادة في المجال الرياضي، والتي تم تنفيذها عن بعد خلال الفترة 20 / 2 / 2026، وذلك بمعدل إجمالي 2 ساعة تدريبية.",
-          "organization": "معهد إعداد القادة - وزارة الرياضة",
-          "date": "20 فبراير 2026",
-          "images": [
-            "/leaders-sports-course.jpg"
-          ]
-        },
-        {
-          "title": "شهادة حضور دورة تدريبية: التحكيم في فض المنازعات الرياضية",
-          "description": "شهد معهد العدالة للتدريب الأهلي بأن الأستاذ/ أحمد جابر أشكناني قد حضر دورة تدريبية بعنوان «التحكيم في فض المنازعات الرياضية» التي أقيمت في الفترة من 15 - 16 فبراير 2026، بإشراف الأستاذ المشارك الدكتور حسن الرشيد والمحامي الدكتور عادل السيد علي بهبهاني.",
-          "organization": "معهد العدالة للتدريب الأهلي",
-          "date": "15 - 16 فبراير 2026",
-          "images": [
-            "/certificate-arbitration-sports-disputes.jpg"
-          ]
-        },
-        {
-          "title": "دورة تدريبية: العلاقات العامة في المجال الرياضي",
-          "description": "حضر أحمد أشكناني دورة تدريبية بعنوان «العلاقات العامة في المجال الرياضي» والتي نظمها معهد إعداد القادة بوزارة الرياضة، وتم تنفيذها عن بُعد خلال الفترة من 12 إلى 13 يناير 2026، بمعدل إجمالي 4 ساعات تدريبية.",
-          "images": [
-            "/public-relations-sports-training.jpg"
-          ]
-        },
-        {
-          "title": "شهادة حضور برنامج تدريبي",
-          "description": "شهادة بحضور أحمد جابر محمد أشكناني للبرنامج التدريبي (المعارف والمهارات الأساسية للوظائف الإشرافية) للعام الدراسي 2025/2026، والذي عُقد خلال الفترة من 19 إلى 20 نوفمبر 2025 لمدة 8 محاضرات تدريبية، بتنظيم إدارة التطوير والتنمية - وزارة التربية.",
-          "images": [
-            "/certificate-supervisory-training.jpg"
-          ]
-        },
-        {
-          "title": "شهادة حضور: دورة الحماية القانونية في الرياضة",
-          "description": "حصل أحمد أشكناني على شهادة حضور من معهد إعداد القادة بوزارة الرياضة، لحضوره دورة بعنوان «الحماية القانونية في الرياضة»، والمنفذة عن بُعد خلال الفترة من 15 إلى 16 أكتوبر 2025، بإجمالي 4 ساعات تدريبية. صدرت الشهادة بتوقيع د. مزنة بنت عبدالرحمن المرزوقي (مدير عام معهد إعداد القادة) وعادل بن أحمد الشويرخ (مدير إدارة التعليم والتطوير).",
-          "images": [
-            "/certificate-legal-protection-in-sports.jpg"
-          ]
-        },
-        {
-          "title": "الحوكمة والسياسات المحلية للدول المستضيفة للاحداث الرياضية الكبرى",
-          "description": "معهد اعداد القادة بوزارة الرياضة 30-9-2025",
-          "images": [
-            "/course-sports-governance.jpg"
-          ]
-        },
-        {
-          "title": "دورة تدريبية: توظيف الذكاء الاصطناعي في الرياضة",
-          "description": "حضر أحمد أشكناني دورة تدريبية بعنوان «توظيف الذكاء الاصطناعي في الرياضة» والتي نظمها معهد إعداد القادة بوزارة الرياضة، ونُفذت عن بُعد خلال الفترة من 17 إلى 18 سبتمبر 2025، بمعدل إجمالي 4 ساعات تدريبية.",
-          "images": [
+            "/investment-entrepreneurship-sports-2026.jpg",
+            "/ai-sports-course-2026.jpg",
+            "/sports-sponsorships-course-2026.jpg",
+            "/leaders-sports-course.jpg",
+            "/public-relations-sports-training.jpg",
+            "/sports-sponsorship-cert-2025.jpg",
+            "/certificate-legal-protection-in-sports.jpg",
+            "/course-sports-governance.jpg",
             "/ai-in-sports-training.jpg"
           ]
         },
