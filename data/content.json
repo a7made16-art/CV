@@ -534,6 +534,15 @@
       "coursesTitle": "Training Courses",
       "courses": [
         {
+          "title": "Certificate of Appreciation: Ibda'at (Innovations)",
+          "description": "With a wealth of appreciation and pride, we extend our sincere thanks and praise to Ahmad Jaber Mohammed Ashkanani in appreciation of your creativity and excellence, which left a positive impact in the educational field through your idea that represents an effective step towards developing the educational environment. Signed by the Minister of Education.",
+          "organization": "Ministry of Education - State of Kuwait",
+          "date": "2025 / 2026",
+          "images": [
+            "/certificate-ibdaat.jpg"
+          ]
+        },
+        {
           "title": "Certificate of Attendance: National Program \"Ambassadors of Peace\"",
           "description": "This is to certify that Mr. Ahmad Jaber Ashkanani participated in the National Program \"Ambassadors of Peace,\" presented by the Youth Public Authority. The program aims to empower Kuwaiti youth to transition from peace receivers to peace makers.",
           "organization": "Youth Public Authority - State of Kuwait",
@@ -1226,6 +1235,15 @@
       ],
       "coursesTitle": "الدورات التدريبية",
       "courses": [
+        {
+          "title": "شهادة شكر وتقدير: إبداعات",
+          "description": "بفيض من التقدير والاعتزاز، نتقدم بخالص الشكر والثناء لـ أحمد جابر محمد اشكناني تقديرًا لإبداعكم وتميزكم الذي ترك أثرًا إيجابيًا في الميدان التربوي من خلال فكرتكم التي تمثل خطوة فاعلة نحو تطوير البيئة التعليمية، وتعكس وعيًا وحرصًا على دعم مسيرة التميز والإبداع.",
+          "organization": "وزارة التربية - دولة الكويت",
+          "date": "2025 / 2026",
+          "images": [
+            "/certificate-ibdaat.jpg"
+          ]
+        },
         {
           "title": "شهادة حضور: البرنامج الوطني \"سفراء السلام\"",
           "description": "يسر الهيئة العامة للشباب تقديم هذه الشهادة مع خالص الشكر والتقدير للمشارك أحمد جابر أشكناني، وذلك لمشاركته في البرنامج الوطني \"سفراء السلام\" المقدم من الهيئة العامة للشباب، والذي يهدف إلى تمكين الشباب الكويتي للانتقال من متلقي السلام إلى صنّاعه.",
